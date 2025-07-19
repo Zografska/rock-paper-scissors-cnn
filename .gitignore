@@ -1,6 +1,12 @@
 /data
 /data_reconstructed
 /tuning_results
+/generalization_data
+/generalization_bg_removed
+
+*.json
+*.keras
+*.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
