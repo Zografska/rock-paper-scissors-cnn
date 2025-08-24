@@ -6,11 +6,11 @@
 
 ## 🚀 About
 
-This project is a quirky little **convolutional neural network (CNN)** that recognizes hand gestures for **rock, paper, and scissors** using computer vision.
+This project is a little **convolutional neural network (CNN)** that recognizes hand gestures for **rock, paper, and scissors** using computer vision.
 
 I built it for my **Master’s class: Statistical and Machine Learning** at the **University of Milan**, where it earned me a **29/30** grade 🎓.
 
-It was also my **first experience with neural networks** — and honestly, it was a lot of fun to explore 🤓.
+It was also my **first experience with neural networks** - and honestly, it was a lot of fun to explore 🤓.
 
 ---
 
@@ -45,7 +45,7 @@ Even so, the project gave me a **fresh perspective on machine learning** and boo
 
 ## 📄 License
 
-MIT — use, remix, and have fun!
+MIT - use, remix, and have fun!
 
 ---
 
